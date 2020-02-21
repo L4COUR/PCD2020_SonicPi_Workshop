@@ -12,11 +12,11 @@ This is a repo containing all of the information from the Sonic Pi beginner work
 - Live Coding performance (ETA 8 min)
 - Q&A 
 
-## Introduction
+## Introduction (ETA 5 min)
 
 Who are we?
 
-## What is Live Coding? (ETA )
+## What is Live Coding? (ETA 5 min)
 
 livecoding as a practice, and philosophy of livecoding.
 
