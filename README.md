@@ -1,7 +1,7 @@
 # PCD2020: Sonic Pi Workshop
 This is a repo containing all of the information from the Sonic Pi beginner workshop, PCD2020 event. This is a collaboration between Rolf Holm and Frederik la Cour. participants are required to bring their own laptops, a pair of headphones and a curious open mind!
 
-![](/Users/Pacour/Developer/PCD2020_SonicPi_Workshop/media/SonicPiworkshopBackdrop.gif)
+![](./media/SonicPiworkshopBackdrop.gif)
 
 ## Agenda
 
