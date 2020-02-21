@@ -26,7 +26,7 @@ livecoding as a practice, and philosophy of livecoding.
 
 ![](https://idmmag.com/wp-content/uploads/2019/03/65367679_DATEBOOK_kost0321-algorithmic-700x500-1.jpg)
 
-* Finally, nothing right, nothing is wrong, only learning matters. Experiment and have fun.
+* Finally, nothing is right, nothing is wrong, only learning and having fun matters.
 
 ## Sonic Pi Installation
 
