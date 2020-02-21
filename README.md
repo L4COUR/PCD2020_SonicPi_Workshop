@@ -13,11 +13,8 @@ This is a repo containing all of the information from the Sonic Pi beginner work
 
 ## What is Live Coding? (ETA 5 min)
 
-livecoding as a practice, and philosophy of livecoding.
-
-* Code with music
-* Cyclic
-* Algorave-culture
+* Algorave and Live Coding Culture
+* How can we think about creating music and sounds using Code?
 
 ![](https://idmmag.com/wp-content/uploads/2019/03/65367679_DATEBOOK_kost0321-algorithmic-700x500-1.jpg)
 
