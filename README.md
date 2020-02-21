@@ -18,7 +18,7 @@ This is a repo containing all of the information from the Sonic Pi beginner work
 
 ![](https://idmmag.com/wp-content/uploads/2019/03/65367679_DATEBOOK_kost0321-algorithmic-700x500-1.jpg)
 
-* Finally, nothing is right, nothing is wrong, only learning and having fun matters.
+* Finally, nothing is right, nothing is wrong, only learning, sharing and having fun matters.
 
 ## Sonic Pi Installation
 
