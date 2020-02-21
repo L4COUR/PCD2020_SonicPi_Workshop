@@ -5,16 +5,11 @@ This is a repo containing all of the information from the Sonic Pi beginner work
 
 ## Agenda
 
-- Introduction (ETA 5 min)
 - What is Live Coding? (ETA 5 min)
 - Tutorial (ETA 15 min)
 - Participants Practice (ETA 25 min )
 - Live Coding performance (ETA 8 min)
 - Q&A 
-
-## Introduction (ETA 5 min)
-
-Who are we?
 
 ## What is Live Coding? (ETA 5 min)
 
