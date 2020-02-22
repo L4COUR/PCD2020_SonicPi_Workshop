@@ -10,15 +10,16 @@ This is a repo containing all of the information from the Sonic Pi beginner work
 - Participants Practice (ETA 25 min )
 - Live Coding performance (ETA 8 min) 
 
-## What is Live Coding? (ETA 5 min)
+## What is Live Coding?
 
 * Live Coding as a movement
+
+![](/Users/Pacour/Developer/PCD2020_SonicPi_Workshop/media/GUI.png)
+
 * Live Coding as a practice
   * How can we think about creating music and sounds using Code?
 
 ![](https://idmmag.com/wp-content/uploads/2019/03/65367679_DATEBOOK_kost0321-algorithmic-700x500-1.jpg)
-
-* Finally, nothing is right, nothing is wrong, only learning, sharing and having fun matters.
 
 ## Sonic Pi Installation
 
@@ -28,7 +29,7 @@ if you have wifi problems a USB with sonic pi will be available
 
 ![](https://www.raspberrypi.org/wp-content/uploads/2014/07/sonicpi2.png)
 
-## Tutorial (ETA 15 min)
+## Tutorial
 
 **Components:** play, sleep, sample, effect, live_loop
 **Commands:** run, stop.
@@ -89,9 +90,11 @@ if you have wifi problems a USB with sonic pi will be available
 
 ## Participants Practice (ETA 30 min)
 
+Finally, nothing is right, nothing is wrong, only learning, sharing and having fun matters.
+
 ![](https://lh3.googleusercontent.com/proxy/VZFnK6SGQ-lfsp-e6nEaJ7-naJkXkiG1UzVPh11etMgN6ndHbjbK-rIoIWBYKN6aj9r7wQ1285I1K7bnzu-Ea63awBb4AD_8iM8k7PWuK4c3CV1yeYaXzrBHD7WgnHF6Ro75S3CuR8BHmtS4Qswkh2XZCFIvOtlrf1ZXw9lQMZcQkVL3-4nZt_5Wju07WnIcBn_aGIiX0JzXQlcUamqL1XnxjpeR7fjpWAwyjkfx)
 
-## Live Coding performance (ETA 8 min)
+## Live Coding performance
 
 
 
