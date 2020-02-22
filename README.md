@@ -1,32 +1,24 @@
 # PCD2020: Sonic Pi Workshop
 This is a repo containing all of the information from the Sonic Pi beginner workshop, PCD2020 event. This is a collaboration between Rolf Holm and Frederik la Cour. participants are required to bring their own laptops, a pair of headphones and a curious open mind!
 
-![](/Users/Pacour/Developer/PCD2020_SonicPi_Workshop/media/SonicPiworkshopBackdrop.gif)
+![](./media/SonicPiworkshopBackdrop.gif)
 
 ## Agenda
 
-- Introduction (ETA 5 min)
 - What is Live Coding? (ETA 5 min)
 - Tutorial (ETA 15 min)
 - Participants Practice (ETA 25 min )
 - Live Coding performance (ETA 8 min)
 - Q&A 
 
-## Introduction
+## What is Live Coding? (ETA 5 min)
 
-Who are we?
-
-## What is Live Coding? (ETA )
-
-livecoding as a practice, and philosophy of livecoding.
-
-* Code with music
-* Cyclic
-* Algorave-culture
+* Algorave and Live Coding Culture
+* How can we think about creating music and sounds using Code?
 
 ![](https://idmmag.com/wp-content/uploads/2019/03/65367679_DATEBOOK_kost0321-algorithmic-700x500-1.jpg)
 
-* Finally, nothing right, nothing is wrong, only learning matters. Experiment and have fun.
+* Finally, nothing is right, nothing is wrong, only learning, sharing and having fun matters.
 
 ## Sonic Pi Installation
 
@@ -47,9 +39,6 @@ if you have wifi problems a USB with sonic pi will be available
   ```ruby
   Play 60
   ```
-
-  Then press alt+r to run. Congrats, you can now make sounds.
-
   Then press alt+r to run. Congrats, you can now make sounds.
 
 2. Sleep. Write:
@@ -62,16 +51,11 @@ if you have wifi problems a USB with sonic pi will be available
 
   Notice the code “slept” or for one second before triggering the next piece of code.
 
-  Notice the code “slept” or for one second before triggering the next piece of code.
-
 3. Samples! Write:
 
   ```ruby
   Sample :ambi_choir
   ```
-
-  Then alt+r again. That’s a sample. Try some other ones.
-
   Then alt+r again. That’s a sample. Try some other ones.
 
 4. Options! Make the sounds go slower or faster and adjust the volume with amp and rate. Write:
@@ -79,8 +63,6 @@ if you have wifi problems a USB with sonic pi will be available
   ```ruby
   Sample :ambi_choir, rate: 0.5, amp: 0.5
   ```
-
-   The sample now runs at half speed with half volume. Try putting in some other numbers, to see what happens. 
 
    The sample now runs at half speed with half volume. Try putting in some other numbers, to see what happens. 
 
@@ -94,8 +76,6 @@ if you have wifi problems a USB with sonic pi will be available
 
   And run it. Now it has a whammy effect! Try reverb, or distortion.
 
-  And run it. Now it has a whammy effect! Try reverb, or distortion.
-
 6. Live_loop! This is a type of block that repeats itself upon finishing. What’s neat is that you can change the code within the block without having to stop. Remember to make it sleep. Write:
 
   ```ruby
@@ -106,10 +86,6 @@ if you have wifi problems a USB with sonic pi will be available
   ```
 
   And run it.
-
-  And run it.
-
-7.          Now go forth! 20 mins and let’s see what you have.
 
 ## Participants Practice (ETA 30 min)
 
