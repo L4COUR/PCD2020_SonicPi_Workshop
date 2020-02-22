@@ -14,7 +14,7 @@ This is a repo containing all of the information from the Sonic Pi beginner work
 
 * Live Coding as a movement
 
-![](/Users/Pacour/Developer/PCD2020_SonicPi_Workshop/media/GUI.png)
+![](./media/GUI.png)
 
 * Live Coding as a practice
   * How can we think about creating music and sounds using Code?
@@ -95,8 +95,4 @@ Finally, nothing is right, nothing is wrong, only learning, sharing and having f
 ![](https://lh3.googleusercontent.com/proxy/VZFnK6SGQ-lfsp-e6nEaJ7-naJkXkiG1UzVPh11etMgN6ndHbjbK-rIoIWBYKN6aj9r7wQ1285I1K7bnzu-Ea63awBb4AD_8iM8k7PWuK4c3CV1yeYaXzrBHD7WgnHF6Ro75S3CuR8BHmtS4Qswkh2XZCFIvOtlrf1ZXw9lQMZcQkVL3-4nZt_5Wju07WnIcBn_aGIiX0JzXQlcUamqL1XnxjpeR7fjpWAwyjkfx)
 
 ## Live Coding performance
-
-
-
-## Q & A
 
