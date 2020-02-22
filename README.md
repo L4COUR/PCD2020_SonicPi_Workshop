@@ -5,16 +5,16 @@ This is a repo containing all of the information from the Sonic Pi beginner work
 
 ## Agenda
 
-- What is Live Coding? (ETA 5 min)
+- What is Live Coding? (ETA 10 min)
 - Tutorial (ETA 15 min)
 - Participants Practice (ETA 25 min )
-- Live Coding performance (ETA 8 min)
-- Q&A 
+- Live Coding performance (ETA 8 min) 
 
 ## What is Live Coding? (ETA 5 min)
 
-* Algorave and Live Coding Culture
-* How can we think about creating music and sounds using Code?
+* Live Coding as a movement
+* Live Coding as a practice
+  * How can we think about creating music and sounds using Code?
 
 ![](https://idmmag.com/wp-content/uploads/2019/03/65367679_DATEBOOK_kost0321-algorithmic-700x500-1.jpg)
 
